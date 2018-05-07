@@ -588,4 +588,8 @@ Vill du se en instruktionsfilm om Volymkontroll?</entry>
     <entry key="new_app_title">Privatkund? Byt till appen Mitt Telenor.</entry>
     <entry key="new_app_ok_button">Google Play</entry>
     <entry key="new_app_ok_button_os">App Store</entry>
+    
+<!-- ======================= CID ======================= -->    
+    <entry key="cid_welcome_title">!Säkrare inloggning</entry>
+    <entry key="cid_welcome_description">!Vi har ett nytt inlogg till våra appar och tjänster från 15 maj och innebär att du som användare endast behöver ett lösenord.Du behöva sedan verifiera ditt konto och koppla till dina abonnemang. Följ bara instruktionerna som följer. Använder du redan My Contacts, Capture eller Lookout? Logga in med samma uppgifter.</entry>
 </resources>
