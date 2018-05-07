@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd" >
+<resources>
+    <comment>Loco export of TelenorX3</comment>
+    <version>5.0</version>
+    <!-- General text -->
+    <entry key="general_button_save">Spara</entry>
+    <entry key="general_button_logout">Logga ut</entry>
+    <entry key="general_button_gallery">Galleri</entry>
+    <entry key="general_button_camera">Kamera</entry>
+    <entry key="general_kr"> kr</entry>
+    <entry key="general_button_activate">Aktivera</entry>
+    <entry key="general_button_cancel">Avbryt</entry>
+    <entry key="general_button_close">St&auml;ng</entry>
+    <entry key="general_button_deactivate">Avaktivera</entry>
+    <entry key="general_button_disable">Avaktivera</entry>
+    <entry key="general_button_yes">Ja</entry>
+    <entry key="general_button_ok">OK</entry>
+    <entry key="general_button_order">Best&auml;ll</entry>
+    <entry key="general_button_continue">Forts&auml;tt</entry>
+    <entry key="general_button_back">Tillbaka</entry>
+    <entry key="general_button_no">Nej</entry>
+    <entry key="general_button_skip">Forts&auml;tt</entry>
+    <entry key="general_button_next">N&auml;sta</entry>
+    <entry key="general_button_confirm">Bekr&auml;fta</entry>
+    <entry key="general_button_later">Senare</entry>
+    <entry key="subscription__lbl__no_binding_time_no_fixation">Nej</entry>
+    <entry key="rate_title">Vi vill g&auml;rna veta vad du tycker om appen.</entry>
+    <entry key="rate_desc">Har du tid att svara p&aring; n&aring;gra fr&aring;gor?</entry>
+    <!-- Welcome screen -->
+    <entry key="login__btn__title__lbl">Logga in</entry>
+    <entry key="welcome__lbl__title">V&auml;lkommen!</entry>
+    <entry key="emma_welcome_header">V&auml;lkommen</entry>
+    <entry key="sign_up__title__btn">Skapa Konto</entry>
+    <entry key="welcome__lbl__emma_header">Hej!</entry>
+    <entry key="welcome__lbl__emma_detail">V&auml;lkommen till Telenor-appen. H&auml;r kan du f&aring; koll p&aring; din surfvolym, hitta din faktura och mycket mer. Mitt namn &auml;r Emma och jag finns h&auml;r om du beh&ouml;ver hj&auml;lp.</entry>
+    <!-- Login page -->
+    <entry key="login__header_title__lbl">Logga in med Mina sidor-konto</entry>
+    <entry key="login__username_placeholder__lbl">Anv&auml;ndarnamn/e-post</entry>
+    <entry key="login__password_placeholder__lbl">L&ouml;senord</entry>
+    <entry key="login__forgot_password__btn">Gl&ouml;mt l&ouml;senord?</entry>
+    <entry key="login__remember_password__lbl">Kom ih&aring;g mig</entry>
+    <entry key="login_existing_customer_new_to_app">Vill du logga in automatiskt n&auml;sta g&aring;ng du anv&auml;nder appen? Du kan n&auml;r som helst &auml;ndra detta under Inst&auml;llningar.</entry>
+    <!-- Forgot password -->
+    <entry key="hava_you_forgot_your_password_and_want_to_create_a_new_one_">Har du gl&ouml;mt ditt l&ouml;senord och beh&ouml;ver ett nytt?</entry>
+    <entry key="alert__no_thanks__btn__title">Nej</entry>
+    <entry key="forgot_password__heading__lbl">Dina kontaktuppgifter</entry>
+    <entry key="forgot_password__send__btn">Nytt l&ouml;senord</entry>
+    <entry key="forgot_password_one_time_password">Tillf&auml;lligt l&ouml;senord</entry>
+    <entry key="no_problem_fill_in_either_your_username_email_address">Fyll i anv&auml;ndarnamn, e-postadress eller telefonnummer s&aring; skickar vi ett nytt l&ouml;senord till dig.</entry>
+    <entry key="forgot_password_new_password">Nytt l&ouml;senord</entry>
+    <entry key="forgot_password_new_password_again">Upprepa l&ouml;senord</entry>
+    <entry key="one_time_password_textfield_placeholder">Tillf&auml;lligt l&ouml;senord</entry>
+    <!-- Signup page 1 -->
+    <entry key="sign_up__new__user__hi__emma__lbl">Hej,</entry>
+    <entry key="sign_up_2__header__lbl">Registrera dig</entry>
+    <entry key="sign_up_1__info_header__lbl">Nytt konto</entry>
+    <entry key="sign_up_1__info_desc__lbl">Ange ditt mobilnummer:</entry>
+    <entry key="sign_up_1__number_hint__lbl">Mobilnummer 070XXXXXXX</entry>
+    <entry key="sign_up_1__info_desc_1__lbl">Ange den e-postadress som du vill registrera till Mina sidor och tryck p&aring; &#8220;N&auml;sta&#8221;.</entry>
+    <entry key="signup__email__txtfield">E-postadress</entry>
+    <entry key="sign_up_1__help__lbl">Vill du se en film om vad du kan g&ouml;ra inne i appen?</entry>
+    <!-- Signup page 2 -->
+    <entry key="sign_up_2__info__lbl">V&auml;lj ett anv&auml;ndarnamn och l&ouml;senord:</entry>
+    <entry key="sign_up_2__username__hint">Anv&auml;ndarnamn </entry>
+    <entry key="sign_up__password_hint__lbl">L&ouml;senord</entry>
+    <entry key="sign_up__pwd_confirm_hint__lbl">Upprepa l&ouml;senordet</entry>
+    <entry key="sign_up_2__pwd_btn__lbl">H&auml;mta l&ouml;senord</entry>
+    <entry key="sign_up_2__help__lbl">T&auml;nk p&aring; att ditt anv&auml;ndarnamn m&aring;ste vara minst 6 tecken och ditt l&ouml;senord minst 8.</entry>
+    <!-- Signup page 3 -->
+    <entry key="sign_up__info__lbl">Ange det l&ouml;senord du precis fick av oss p&aring; sms:</entry>
+    <entry key="sign_up__help__lbl">Det l&ouml;senord du precis fick av oss p&aring; sms fungerar som en extra s&auml;kerhet n&auml;r du skapar ett konto p&aring; Mina sidor.</entry>
+    <entry key="sign_up_3__next_btn__lbl">N&auml;sta steg</entry>
+    <!-- Signup complete -->
+    <entry key="sign_up__new__user__intro__video__desc__lbl">Du har nu skapat ett anv&auml;ndarnamn som fungerar b&aring;de i appen och p&aring; telenor.se/minasidor. Vill du se en film som hj&auml;lper dig att komma ig&aring;ng med appen?</entry>
+    <entry key="sign_up__new__user__emma__lbl">Mitt namn &auml;r Emma och jag jobbar p&aring; Telenors kundservice. Har du fr&aring;gor om ditt abonnemang kan du klicka p&aring; min bild nere i v&auml;nstra h&ouml;rnet s&aring; hj&auml;lper jag dig.</entry>
+    <!-- Signup error -->
+    <entry key="sign_up__error__email__lbl">Ange din e-postadress</entry>
+    <entry key="sign_up__error__number__lbl">Ange ditt telefonnummer, du kan v&auml;lja ett fastn&auml;tsnummer eller ditt mobilnummer.</entry>
+    <entry key="sign_up__error__pwd__confirm__lbl">V&auml;nligen bekr&auml;fta l&ouml;senordet!</entry>
+    <entry key="sign_up__error__pwd__match__lbl">L&ouml;senorden matchar inte varandra. F&ouml;rs&ouml;k igen.</entry>
+    <entry key="sign_up__error__pwd__rule">L&ouml;senordet m&aring;ste inneh&aring;lla 8 tecken med bokst&auml;ver, siffror eller specialtecken (!&#8221;#%/()=?). Kombinera minst tv&aring; av kategorierna.</entry>
+    <entry key="sign_up__error__username__rule">Ditt anv&auml;ndarnamn m&aring;ste inneh&aring;lla minst 6 tecken med bokst&auml;ver och/eller siffror.</entry>
+    <!-- Home menus -->
+    <entry key="menu__charge__btn">Ladda</entry>
+    <entry key="menu__invoice__btn">Fakturor</entry>
+    <entry key="menu__offers__btn">Erbjudanden</entry>
+    <entry key="menu__prepaid_cards__btn">Kontantkort</entry>
+    <entry key="menu__question_emma__btn">Fr&aring;ga Emma</entry>
+    <entry key="menu__services__btn">Tj&auml;nster</entry>
+    <entry key="menu__subscription__btn">Abonnemang</entry>
+    <entry key="menu__usage__btn">Saldo</entry>
+    <entry key="menu__profile__btn">Profil</entry>
+    <!-- Home -->
+    <entry key="home_barred">Ditt abonnemang &auml;r sp&auml;rrat. Kontakta kundservice f&ouml;r mer information.</entry>
+    <entry key="home_invoice_blocked">Tyv&auml;rr har vi problem med att visa din faktura just nu. Vi jobbar p&aring; att fixa problemet.</entry>
+    <entry key="home_invoice_blocked_corporate_user">Du har inte tillg&aring;ng till fakturor.</entry>
+    <entry key="home_enterprise_user_alert">Som f&ouml;retagskund kan du endast logga in p&aring; Mina sidor via din webbl&auml;sare.</entry>
+    <entry key="alert__subscription_barred__body">Ditt abonnemang &auml;r sp&auml;rrat. Logga in p&aring; Mina sidor via din webbl&auml;sare och ange din sp&auml;rrkod f&ouml;r att &ouml;ppna det igen.</entry>
+    <entry key="home_subscription_member_name">Medlem </entry>
+    <!-- Usage general -->
+    <entry key="usage_general_you">Du</entry>
+    <entry key="usage_general_my">Din</entry>
+    <entry key="usage_general_have">har</entry>
+    <entry key="usage_general_has">har</entry>
+    <entry key="usage_general_gb"> GB</entry>
+    <entry key="usage_general_kr"> KR</entry>
+    <entry key="usage_general_to"> till	 </entry>
+    <entry key="usage_topup_left_data">Du har endast 10% kvar av din surfvolym. Vill du k&ouml;pa till Extra surf?</entry>
+    <!-- Usage view -->
+    <entry key="usage_postpaid_invoice_title">Hittills f&ouml;r perioden </entry>
+    <entry key="usage_shareable_invoice_title">Hittills f&ouml;r perioden </entry>
+    <entry key="usage_everybody_usage">Total f&ouml;rbrukning</entry>
+    <entry key="usage_my_usage">Min f&ouml;rbrukning</entry>
+    <entry key="usage_1_plus_1_total">Totalt</entry>
+    <entry key="usage_1_plus_1_main_card">Huvud-sim</entry>
+    <!--Usage Statistic text  -->
+    <entry key="usage_owner_looking_total_usage_lable">F&ouml;rbrukad surfvolym [total used] GB 
+T.o.m [date].</entry>
+    <entry key="usage_owner_looking_own_usage_lable">F&ouml;rbrukad surfvolym [own used] GB 
+T.o.m [date].</entry>
+    <entry key="usage_owner_looking_own_restriction_usage_lable">Surfgr&auml;ns: [restriction] GB,
+F&ouml;rbrukad surfvolym: [own used] GB.</entry>
+    <entry key="usage_owner_looking_member_restriction_usage_lable">[name] har en surfgr&auml;ns p&aring; [restriction] GB. Abonnemangets totala surfvolym &auml;r [family total] GB.
+T.om. [date].</entry>
+    <entry key="usage_owner_looking_member_without_restriction">F&ouml;rbrukad surfvolym [total used] GB 
+T.o.m [date].</entry>
+    <entry key="usage_member_looking_own_with_restriction">F&ouml;rbrukad surfvolym [total used] GB 
+T.o.m [date].</entry>
+    <entry key="usage_member_looking_own_without_restriction">F&ouml;rbrukad surfvolym [total used] GB 
+T.o.m [date].</entry>
+    <!-- Not used remove later  -->
+    <entry key="usage_all_usage_data_statistics_desc_without_surf">F&ouml;rbrukad surfvolym: [usedDataVolume] GB. Surfvolym kvar: [leftDataVolume] GB</entry>
+    <entry key="usage_all_usage_data_statistics_desc_with_surf">F&ouml;rbrukad surfvolym: [usedDataVolume] GB</entry>
+    <entry key="usage_member_data_statistics_desc">Abonnemangets totala f&ouml;rbrukning &auml;r [total] GB. Surfvolym kvar [leftDataVolume] GB.</entry>
+    <entry key="usage_member_data_statistics_desc_with_surf">[name] [have] en surfgr&auml;ns p&aring; [restriction] GB. Abonnemangets totala f&ouml;rbrukning &auml;r [usedDataVolume] GB.</entry>
+    <entry key="usage_topup_button">K&ouml;p till surf</entry>
+    <entry key="usage_data_usage_per_user">Medlemmar och surfgr&auml;nser</entry>
+    <entry key="usage_all_usage_title">Totalt f&ouml;r abonnemanget</entry>
+    <entry key="usage_data_surf_volume_statistics">Surf volume </entry>
+    <!-- Usage details expanding -->
+    <entry key="usage_voice_spec_title">Samtalstid</entry>
+    <entry key="usgae_voice_spec_national_title">Inrikes</entry>
+    <entry key="usgae_voice_spec_national_sub_title">Samtalsminuter inom Sverige</entry>
+    <entry key="usgae_voice_spec_roaming_title">Utrikes</entry>
+    <entry key="usgae_voice_spec_roaming_sub_title">Samtalsminuter utomlands</entry>
+    <entry key="usage_sms_mms_text"> SMS/MMS</entry>
+    <entry key="usage_message_spec_title">Meddelanden</entry>
+    <entry key="usage_sms_st"> st</entry>
+    <entry key="usage_message_spec_sms_title">SMS</entry>
+    <entry key="usage_message_spec_sms_sub_title">Skickade SMS</entry>
+    <entry key="usage_message_spec_mms_title">MMS</entry>
+    <entry key="usage_message_spec_mms_sub_title">Skickade MMS</entry>
+    <entry key="usage_cost_spec_title">Kostnader ut&ouml;ver abonnemanget</entry>
+    <entry key="usgae_cost_spec_subscription_service_title">Trafikavgifter Sverige</entry>
+    <entry key="usgae_cost_spec_subscription_service_sub_title">Kostnad ut&ouml;ver fasta avgifter</entry>
+    <entry key="usgae_cost_spec_roaming_service_title">Utomlands</entry>
+    <entry key="usgae_cost_spec_roaming_service_sub_title">Inklusive surfvolym utomlands</entry>
+    <entry key="usgae_cost_spec_content_service_title">Inneh&aring;llstj&auml;nster</entry>
+    <entry key="usgae_cost_spec_content_service_sub_title">K&ouml;pta via detta abonnemang</entry>
+    <entry key="usgae_cost_spec_third_party_service_title">F&ouml;rmedlade tj&auml;nster</entry>
+    <entry key="usgae_cost_spec_third_party_service_sub_title">K&ouml;pta via detta abonnemang</entry>
+    <entry key="usgae_cost_spec_description">Nuvarande saldo &auml;r ber&auml;knat sedan din senaste faktura. Fasta avgifter tillkommer vid fakturering.</entry>
+    <!-- Usage topup -->
+    <entry key="usage_topup_data_radio_button_text">  GB  Extra surf ( </entry>
+    <entry key="usage_general_kr_close"> kr)</entry>
+    <entry key="usage_top_up_data_title">K&ouml;p till Extra surf</entry>
+    <entry key="usage_top_up_data_sub_title">Din ordinarie surfvolym fylls p&aring; om [number] dagar.</entry>
+    <entry key="usage_topup_data_confirm_title">Bekr&auml;fta k&ouml;p</entry>
+    <entry key="usage_topup_data_confirm_description">Vill du fylla p&aring; med [topupData] GB f&ouml;r [topupAmount] kr? Din Extra surf g&auml;ller fram till och med den [date]. Kostnaden ser du p&aring; din n&auml;sta faktura.</entry>
+    <entry key="usage_topup_data_success_message_title">Klart!</entry>
+    <entry key="usage_topup_data_success_message_description">Du har nu fyllt p&aring; din surfvolym f&ouml;r [topupAmount] kr. N&auml;sta period med ny surfvolym b&ouml;rjar [date]. </entry>
+    <entry key="usage_topup_data_success_message_description_new">Du har nu fyllt p&aring; din surfvolym med [topupData] GB. Det kan dr&ouml;ja lite innan du ser &auml;ndringen. </entry>
+    <!-- Total usage & datalimit view -->
+    <entry key="usage_data_usage_per_user_total_until">Totalt t.o.m. </entry>
+    <entry key="usage_data_usage_per_user_last_topup_data"> Senaste k&ouml;p av Extra surf var [refillDate] p&aring; [refillAmount] GB.</entry>
+    <entry key="usage_data_usage_per_user_data_limit">Volymkontroll</entry>
+    <entry key="usage_data_av">av </entry>
+    <!-- Data limit -->
+    <entry key="usage_data_used_per_user_data_limit_description">Med Volymkontroll kan du s&auml;tta surfgr&auml;nser f&ouml;r  varje enskilt sim-kort.</entry>
+    <entry key="usage_data_limit_monthly_fee_">M&aring;nadskostnad:</entry>
+    <entry key="usage_data_limit_confirm_title">Klart!</entry>
+    <entry key="usage_data_limit_confirm_sub_title">Volymkontroll &auml;r nu aktiverad. M&aring;nadskostnaden &auml;r [Fees] kr.</entry>
+    <entry key="usage_data_limit_confirm_button_help">Mer information</entry>
+    <entry key="usage_data_limit_confirm_button_close">St&auml;ll in surfgr&auml;nser</entry>
+    <entry key="usage_button_watch_movie">Se filmen</entry>
+    <entry key="usage_data_limit_help_description">F&ouml;r att s&auml;tta en surfgr&auml;ns drar du reglaget till &ouml;nskad niv&aring;. T&auml;nk p&aring; att n&auml;r du satt en surfgr&auml;ns surfar de andra medlemmarna fortfarande fr&aring;n den gemensamma surfvolymen och det finns ingen garanti att varje anv&auml;ndare kan surfa upp till sin begr&auml;nsning.
+
+Vill du se en instruktionsfilm om Volymkontroll?</entry>
+    <entry key="usage_data_usage_per_user_limit_text">S&auml;tt enskilda surfgr&auml;nser</entry>
+    <entry key="usage_data_usage_per_user_usage_for_all_members">Aktuella surfgr&auml;nser</entry>
+    <entry key="usage_data_usage_per_user_usage_slider_data_limit">Surfgr&auml;ns</entry>
+    <!-- Usage postpaid -->
+    <entry key="usage_postpaid_notification_title">Saldokoll</entry>
+    <entry key="usage_postpaid_notification_sub_title">F&aring; koll p&aring; din mobilanv&auml;ndning</entry>
+    <entry key="usage_postpaid_notification_balance_control_deactivate_desc">Vill du avaktivera Saldokoll?</entry>
+    <entry key="usage_postpaid_notification_balance_control_active_desc">Vill du aktivera Saldokoll?</entry>
+    <entry key="usage_postpaid_notification_confirmation_title">Klart!</entry>
+    <entry key="usage_postpaid_notification_confirmation_sub_title">Saldokoll &auml;r nu aktiverad.</entry>
+    <entry key="usage_postpaid_service_name">Kostnad ut&ouml;ver abonnemangsavgiften</entry>
+    <entry key="usage_postpaid_left_of_pot">Kvar av pott:</entry>
+    <entry key="usage_postpaid_notification_deactive_confirmation_sub_title">Saldokoll &auml;r nu avaktiverad.</entry>
+    <!-- Usage prepaid -->
+    <entry key="usage_prepaid_refill_your_card">Ladda ditt kontantkort</entry>
+    <entry key="usage_prepaid_left_to_use">Kvar att anv&auml;nda</entry>
+    <!-- Invoices -->
+    <entry key="invoice__lbl__paying">Att betala:</entry>
+    <entry key="invoice__lbl__status">Status:</entry>
+    <entry key="invoice__lbl__status_paid">Betald</entry>
+    <entry key="invoice__lbl__status_unpaid_not_yet_overdue">Obetald</entry>
+    <entry key="invoice__lbl__status_overdue">F&ouml;rfallen</entry>
+    <entry key="invoice__lbl__maturity">F&ouml;rfallodatum:</entry>
+    <entry key="invoice__lbl__ocr_no">OCR-nummer:</entry>
+    <entry key="invoice__lbl__bank_giro">Bankgironummer:</entry>
+    <entry key="invoice__lbl__bank_giro_value">5331&#8211;1338</entry>
+    <entry key="invoice__lbl__postgiro_no">Plusgironummer:</entry>
+    <entry key="invoice__lbl__postgiro_no_value">4792603-5</entry>
+    <entry key="invoice__lbl__see_invoice">Visa faktura</entry>
+    <entry key="invoice__lbl__detailed_invoice">Visa trafikspecifikation</entry>
+    <entry key="invoice__lbl__sms_on_new_bill">Sms vid ny faktura</entry>
+    <entry key="invoice__lbl__sms_paid_invoice">Sms vid betald faktura</entry>
+    <entry key="invoice__btn__send_invoice_by_email">Skicka fakturan till min e-post</entry>
+    <entry key="error_message_oops_your_device_doesn_t_support_pdf_viewer_">Tyv&auml;rr kan inte din telefon visa PDF-filer.</entry>
+    <entry key="your_invoice_report_was_sent_successfully_via_email_">Din faktura har skickats till din e-postadress.</entry>
+    <entry key="invoice__lbl__jan">Jan</entry>
+    <entry key="cant_open_pdf_viewer_title">Applikationen kan inte &ouml;ppna PDF!</entry>
+    <entry key="cant_open_pdf_viewer_description">Applikationen kan inte &ouml;ppna PDF-visaren</entry>
+    <entry key="cant_open_pdf_viewer_button_text">Skaffa Adobe Reader</entry>
+    <entry key="invoice__lbl__traffic_spec">Trafikspecifikation</entry>
+    <entry key="invoice__lbl__payment_method">Betalningsmetod</entry>
+    <entry key="invoice__payment_method_auto">Autogiro</entry>
+    <entry key="invoice__payment_method_efactura">E-faktura</entry>
+    <entry key="invoice__payment_method_paper_bill">Pappersfaktura</entry>
+    <!-- Service -->
+    <entry key="service__type__settings__lbl">Inst&auml;llningstj&auml;nster</entry>
+    <entry key="service__detail__active__lbl">Aktiverad</entry>
+    <entry key="service_was_activated">Tj&auml;nsten aktiverades</entry>
+    <entry key="service__detail__monthly__fee__lbl">Fast m&aring;nadsavgift</entry>
+    <entry key="service__detail__discount__lbl">M&aring;nadsrabatt</entry>
+    <entry key="service_detail__lbl__total_amount">Du betalar</entry>
+    <entry key="service_detail_lbl_kr_months"> kr/m&aring;n</entry>
+    <entry key="service__cancel__lbl">Avbest&auml;ll</entry>
+    <!-- Service order -->
+    <entry key="service__detail__order__dialog__header__lbl">Bekr&auml;fta best&auml;llning</entry>
+    <entry key="service__detail__order__dialog__lbl">Vill du best&auml;lla </entry>
+    <entry key="service__detail__order__confirm__lbl">Vi har tagit emot din best&auml;llning av [service].</entry>
+    <entry key="service__detail__order__confirm__desc_lbl">Best&auml;llningen genomf&ouml;rd!</entry>
+    <!-- Service cancel -->
+    <entry key="service__detail__cancel__dialog__header__lbl">Bekr&auml;fta avbest&auml;llning</entry>
+    <entry key="service__detail__cancel__dialog__lbl">Vill du avbest&auml;lla </entry>
+    <entry key="service__detail__order__cancel__desc_lbl">Du har nu avbest&auml;llt </entry>
+    <entry key="service__detail__order__cancel__lbl">Avbest&auml;llning genomf&ouml;rd!</entry>
+    <!-- Service voicemail -->
+    <entry key="9c34880824f7952b7f1471533c01b898">R&ouml;stbrevl&aring;da</entry>
+    <entry key="service_setting_subtitle">Inst&auml;llningar f&ouml;r</entry>
+    <entry key="service_voice_mail_title">R&ouml;stbrevl&aring;da</entry>
+    <entry key="service_setting_response_title">Svarstid</entry>
+    <entry key="service__voicemail__settings__active__lbl">aktiv</entry>
+    <entry key="service__voicemail__settings__inactive__lbl">inaktiv till</entry>
+    <entry key="service__voicemail__settings__lbl">Din r&ouml;stbrevl&aring;da &auml;r </entry>
+    <entry key="service__voicemail__settings__onoff__lbl">Av / P&aring;</entry>
+    <entry key="service_setting_eurovoice">Dina samtal &auml;r medflyttade till R&ouml;stbrevl&aring;dan</entry>
+    <entry key="call_forwarding__date__header__lbl">Avaktivera r&ouml;stbrevl&aring;da till och med:</entry>
+    <entry key="eurovoice__change__time__confirm__lbl">&Auml;r du s&auml;ker p&aring; att du vill &auml;ndra svarstiden f&ouml;r r&ouml;stbrevl&aring;dan?</entry>
+    <entry key="service_setting_response_desc">V&auml;lj antal sekunder innan r&ouml;stbrevl&aring;dan svarar</entry>
+    <!-- Service callforward -->
+    <entry key="service_call_forward_title">Medflyttning</entry>
+    <entry key="service_msisdn_place_holder_text">Telefonnummer</entry>
+    <entry key="service_setting_inactive">Dina samtal &auml;r inte medflyttade</entry>
+    <entry key="service_setting_active">Dina samtal &auml;r aktiv</entry>
+    <entry key="service_setting_msisdn">Dina samtal &auml;r medflyttade till</entry>
+    <entry key="call_forwarding__lbl__title">V&auml;lj var du vill medflytta dina samtal:</entry>
+    <entry key="call_forwarding__lbl__option_1">Koppla alla samtal till R&ouml;stbrevl&aring;dan</entry>
+    <entry key="call_forwarding__lbl__option_2">Medflytta till annat nummer</entry>
+    <entry key="call_forwarding_confirmation_title">Bekr&auml;fta Medflyttning </entry>
+    <entry key="call_forwarding_confirmation_sub_title_with_msisdn">St&auml;mmer det att du vill med&#64258;ytta dina samtal till</entry>
+    <entry key="call_forwarding_confirmation_sub_title">St&auml;mmer det att du vill med&#64258;ytta dina samtal till din r&ouml;stebrevl&aring;da?</entry>
+    <entry key="service_inactive_call_farward_success_message">Medflyttning till r&ouml;stbrevl&aring;dan &auml;r inaktiv</entry>
+    <!-- Where are this used? -->
+    <entry key="service_setting_voicemail">Medlyttning Av/P&aring;</entry>
+    <!-- Subscription -->
+    <entry key="subscribtion_page_heading">Ditt nummer:</entry>
+    <entry key="subscribtion_mobilenumber_heading">Sim-kortsnummer</entry>
+    <entry key="subscribtion_puk_heading">PUK-kod</entry>
+    <entry key="subscribtion_btn_best_sim_kort">Best&auml;ll nytt sim-kort</entry>
+    <entry key="subscribtion_btn_sparra_abonnem">Sp&auml;rra abonnemang</entry>
+    <entry key="subscription_prepaid_bar_sim_label">Sp&auml;rra kontantkort</entry>
+    <entry key="subscribtion_support_iphone">Smartphonesupport</entry>
+    <entry key="subscribtion_name_heading">Ditt abonnemang:</entry>
+    <entry key="subscribtion_fixation_header">Bindningstid:</entry>
+    <entry key="subscription__binding__lbl">Bindningstid</entry>
+    <entry key="subscription__renew_date_agreement__lbl">Du kan f&ouml;rl&auml;nga ditt abonnemang tidigast</entry>
+    <entry key="subscribtion_fixed_monthly_fee_header">Fast m&aring;nadsavgift:</entry>
+    <entry key="subscribtion_increased_monthly_fee_header">F&ouml;rh&ouml;jd m&aring;nadsavgift:</entry>
+    <entry key="subscription__discount__lbl">M&aring;nadsrabatt</entry>
+    <entry key="subscribtion_discount_header">M&aring;nadsrabatt:</entry>
+    <entry key="subscribtion_discount_header_detail_header_label">Om M&aring;nadsrabatt</entry>
+    <entry key="subscribtion_discount_header_detail_description_label">M&aring;nadsrabatten reducerar din f&ouml;rh&ouml;jda m&aring;nadsavgift. Rabatten g&auml;ller under hela bindningstiden.</entry>
+    <entry key="subscribtion_discount_header_detail_description_label">M&aring;nadsrabatten reducerar din f&ouml;rh&ouml;jda m&aring;nadsavgift. Rabatten g&auml;ller under hela bindningstiden.</entry>
+    <entry key="subscribtion_additional_connection_text">Medlemmar</entry>
+    <entry key="subscribtion_numbers_of_tillaggsanslutningar_text">Du har COUNTS Extra-sim</entry>
+    <entry key="subscribtion_subscribed_text"> Mer om ditt abonnemang</entry>
+    <entry key="unbar_title">&Ouml;ppna abonnemang</entry>
+    <entry key="unbar_description">H&auml;r kan du &ouml;ppna ditt abonnemang igen om du har &aring;terfunnit ditt SIM-kort. Det &auml;r kostnadsfritt att &ouml;ppna abonnemanget.</entry>
+    <entry key="ordered_inactive_sim_header">Inaktivt sim-kort</entry>
+    <entry key="unbar_msisdn">&Ouml;ppna abonnemang:</entry>
+    <entry key="unbar_success_description">Nu &auml;r ditt abonnemang &ouml;ppnat och du kan anv&auml;nda det som vanligt igen. </entry>
+    <entry key="unbar_code">Ange din valda fyrsiffriga kod:</entry>
+    <entry key="unbar_start_description">Ditt abonnemang &auml;r sp&auml;rrat. Du kan l&aring;sa upp ditt abonnemang h&auml;r eller logga in p&aring; Mina sidor via din webbl&auml;sare och ange din sp&auml;rrkod f&ouml;r att &ouml;ppna det igen.</entry>
+    <entry key="unbar_start_button">L&aring;s upp</entry>
+    <!-- Subscription order sim -->
+    <entry key="subscription_order_sim_detail_description">Kostnaden (250 kr/sim) ser du p&aring; din n&auml;sta faktura.</entry>
+    <entry key="subscribtion__dialog__title">Vill du best&auml;lla nytt sim-kort?</entry>
+    <entry key="subscribtion__dialog__sub_title_select_card_to_replace">V&auml;lj vilket eller vilka sim-kort du vill best&auml;lla.</entry>
+    <entry key="subscribtion__dialog__select_card_to_replace_option_1">B&aring;de ditt huvudkort och tvillingkort</entry>
+    <entry key="subscribtion__dialog__prize_of_card_1">500 kr</entry>
+    <entry key="subscribtion__dialog__select_card_to_replace_option_2">Huvudkort</entry>
+    <entry key="subscribtion__dialog__prize_of_card_2">250 kr</entry>
+    <entry key="subscribtion__dialog__select_card_to_replace_option_3">Tvillingkort</entry>
+    <entry key="subscribtion__dialog__prize_of_card_3">250 kr</entry>
+    <entry key="subscribtion__dialog__sub_title_select_status_of_cards">V&auml;lj inaktivt vid telefonbyte och aktivt ifall du tappat bort din telefon.</entry>
+    <entry key="subscribtion__dialog__select_status_of_cards_option_1">Inaktivt sim-kort</entry>
+    <entry key="subscribtion__dialog__select_status_of_cards_option_2">Aktivt sim-kort</entry>
+    <entry key="subscribtion__dialog__active__lbl">Aktiv</entry>
+    <entry key="subscribtion__dialog__inactive__lbl">Inaktiv</entry>
+    <entry key="subscription_sim_size_type_label">V&auml;lj storlek p&aring; sim-kortet:</entry>
+    <entry key="subscribtion__dialog__choose_size_of_card_1">Nano (t.ex. iPhone 5s och iPhone 5c)</entry>
+    <entry key="subscribtion__dialog__choose_size_of_card_2">Micro (t.ex. iPhone 4 och Sony Xperia Z2)</entry>
+    <entry key="subscribtion__dialog__choose_size_of_card_3">Mini (t.ex. Samsung Galaxy Trend och &auml;ldre mobiler) </entry>
+    <entry key="subscribtion__dialog__sub_title_choose_size_of_main_card">V&auml;lj typ av sim-kort f&ouml;r Huvudkort </entry>
+    <entry key="subscribtion__dialog__sub_title_choose_size_of_gemini_card">V&auml;lj typ av sim-kort f&ouml;r Tvillingkort </entry>
+    <entry key="subscription_order_confirm_single_sim_desc">- Ett [STATUS] [MAINBOARD] storlek [NANO]. Den sammanlagda kostnaden &auml;r 250 kr.</entry>
+    <entry key="subscription_order_confirm_double_sim_desc">- Ett [STATUS] [MAINBOARD] storlek [NANO]                         - Ett [STATUS] [TWINCARDS] storlek [STANDARD]?</entry>
+    <entry key="subacription_order_confirm_total_cost_label">Total kostnad</entry>
+    <entry key="subscription_order_confirm_title_label">Bekr&auml;fta best&auml;llning</entry>
+    <entry key="subscription_order_confirm_subtitle_label">&Auml;r du s&auml;ker p&aring; att du vill best&auml;lla</entry>
+    <entry key="subscribtion__dialog__title_request_sim_success_msg">Din best&auml;llning &auml;r klar!</entry>
+    <entry key="subscribtion__dialog__title_verify_sim_card">Bekr&auml;fta best&auml;llning</entry>
+    <entry key="subscribtion__dialog__request_sim_success_msg">Vi har tagit emot din best&auml;llning och kommer skicka ditt nya sim-kort inom ett par dagar. Du kommer att se kostnaden p&aring; din n&auml;sta faktura.</entry>
+    <!-- Subscription barr -->
+    <entry key="subscribtion__dialog__title_barring_subscription">Sp&auml;rra ditt abonnemang</entry>
+    <entry key="subscribtion__dialog__barring_subscription_info">Om du har blivit bestulen p&aring; din telefon eller tappat den &auml;r det bra att sp&auml;rra ditt abonnemang. F&ouml;r att du ska kunna logga in p&aring; Mina sidor, under tiden ditt abonnemang &auml;r sp&auml;rrat, beh&ouml;ver du v&auml;lja en fyrsiffrig kod. F&ouml;r att &ouml;ppna abonnemanget loggar du in p&aring; Mina sidor via din webbl&auml;sare och anger din sp&auml;rrkod.</entry>
+    <entry key="subscribtion__dialog__error_msg_please_enter_4_digit_code">Valfri sp&auml;rrkod (4-siffrig)</entry>
+    <entry key="subscribtion_dialog_barring_subscription_hint">Ange sp&auml;rrkod</entry>
+    <entry key="subscribtion__dialog__barring_subscription_btn_positive">Sp&auml;rra</entry>
+    <entry key="subscribtion__dialog__title_barring_subscription_success_msg">Klart!</entry>
+    <entry key="subscribtion__dialog__barring_subscription_success_msg">Ditt abonnemang &auml;r nu sp&auml;rrat. Kom ih&aring;g att dina m&aring;nadskostnader fortl&ouml;per som vanligt.</entry>
+    <!-- Additional connections -->
+    <entry key="subscription_connection_voice">Extra-sim MOBIL</entry>
+    <entry key="subscription_connection_data">Extra-sim SURF</entry>
+    <entry key="subscription_member_role_text">Medlem Plus</entry>
+    <!-- order sim keys -->
+    <entry key="subscribtion__mini_sim">Mini</entry>
+    <entry key="subscribtion__micro_sim">Micro</entry>
+    <entry key="subscribtion__nano_sim">Nano</entry>
+    <!-- extended monthly fee and handset finance -->
+    <entry key="extended_monthly_header">Avgift f&ouml;r mobil, surfplatta eller modem.</entry>
+    <entry key="extended_monthly_description">Den f&ouml;rh&ouml;jda m&aring;nadsavgiften &auml;r kopplad till bindningstiden p&aring; ditt abonnemang.</entry>
+    <entry key="extended_list_item_detail">Betalas till och med</entry>
+    <entry key="handset_expand_header">Din delbetalning</entry>
+    <entry key="handset_expand_description">Delbetalning &auml;r det belopp per m&aring;nad du betalar f&ouml;r din telefon, surfplatta eller ditt modem. Delbetalningen &auml;r inte kopplad till bindningstiden p&aring; ditt abonnemang.</entry>
+    <entry key="handset_expand_header_change_allowed">Telenor Change</entry>
+    <entry key="handset_expand_description_change_allowed">H&auml;r kan du se n&auml;r du tidigast kan byta din mobil i n&aring;gon av v&aring;ra butiker, hur mycket du eventuellt betalar och IMEI-nummer kopplat till tj&auml;nsten. L&auml;s mer p&aring; 
+        <a href="http://www.telenor.se/change">telenor.se/change</a>.
+    </entry>
+    <entry key="installment_date_header">Betalas till och med</entry>
+    <entry key="installment_date_description">Slutdatum p&aring; din delbetalning.</entry>
+    <entry key="imei_header">IMEI-nummer</entry>
+    <entry key="imei_description">Kopplat till Change.</entry>
+    <entry key="imei">IMEI:</entry>
+    <entry key="earliest_date_change_header">Du kan byta mobil tidigast</entry>
+    <entry key="earliest_date_change_description">[XXX] kr betalas i butik. Efter 12 m&aring;nader sker bytet kostnadsfritt.</entry>
+    <entry key="handset_fiannce_header">Delbetalning</entry>
+    <entry key="handset_change_link">http://www.telenor.se/privat/pa-dina-villkor/change.html</entry>
+    <entry key="handset_price">Vill du byta mobil redan idag s&aring; kostar det:</entry>
+    <entry key="handset_change_info">H&auml;r kan du se n&auml;r du tidigast kan byta din mobil i n&aring;gon av v&aring;ra butiker, hur mycket du eventuellt betalar och IMEI-nummer kopplat till tj&auml;nsten. L&auml;s mer p&aring; 
+        <a href="http://www.telenor.se/change">telenor.se/change</a>.
+    </entry>
+    <entry key="handset_finance_change_allowed_header">Du kan byta mobil tidigast</entry>
+    <!-- where are this used -->
+    <entry key="subscribtion_mobilenumber">46008678686868768</entry>
+    <entry key="subscription__monthlyfee__lbl">Fast m&aring;nadsavgift</entry>
+    <entry key="subscribtion_subscribed_text_text">Nedan hittar du information om n&auml;r du tidigast kan f&ouml;rl&auml;nga ditt abonnemang samt m&auml;nadsavgiften f&ouml;r abonnemanget.</entry>
+    <entry key="subscribtion_dialog_error_msg_please_enter_4_digit">Please enter 4 digit code.</entry>
+    <entry key="subscribtion_dialog_barring_subscription_password">Barring password (4 digits)</entry>
+    <entry key="subscription_sim_size_type_label">Choose the size of SIM card</entry>
+    <!-- Profile -->
+    <entry key="profile_header">Profil</entry>
+    <entry key="profile_setting_title">Inst&auml;llningar</entry>
+    <entry key="profile_setting_child_member_title">Medlem F&ouml;r&auml;ldrakoll</entry>
+    <entry key="profile_setting_child_user_activated">Aktiverad</entry>
+    <entry key="profile_setting_child_user_disabled">Inaktiverad</entry>
+    <entry key="setting_child_info">F&ouml;r&auml;ldrakoll &auml;r en tj&auml;nst som &auml;r kostnadsfri och ger barnen ett tryggare mobilt liv. Tj&auml;nsten sp&auml;rrar f&ouml;ljande: samtal och sms till alla nummerupplysningar inom Sverige, samtal och sms till alla betalsamtal inom Sverige, samtal, sms och surf n&auml;r du befinner dig i utlandet, samt samtal till utlandet. Telefonnumret som omfattas av f&ouml;r&auml;ldrakoll blir heller ej s&ouml;kbart hos nummerupplysningar men syns som vanligt i nummerpresentat&ouml;rer.</entry>
+    <entry key="profile_setting_superuser_title">Medlem Plus</entry>
+    <entry key="super_user_info">Medlem Plus har i princip samma r&auml;ttigheter som &Auml;garen av abonnemanget. Skillnaden &auml;r att man inte kan &auml;ndra medlemmarnas profiler och att &Auml;garen av abonnemanget f&aring;r den gemensamma fakturan f&ouml;r Samla familjen/Familjeflex-abonnemanget.</entry>
+    <entry key="profile_notification_sms_data_usage">N&auml;r vill du f&aring; sms-notifikationer fr&aring;n Telenor?</entry>
+    <entry key="profile_notification_sms_in_daytime">Endast dagtid (08:00-20:00)</entry>
+    <entry key="profile_notification_sms_anytime">Dygnet runt (00:00-24:00)</entry>
+    <entry key="profile_notification_add_addtional_phone_number">Jag vill &auml;ven f&aring; sms till mobilnummer:</entry>
+    <entry key="profile_notification_confirmation_title">Spara inst&auml;llningar</entry>
+    <entry key="profile_notification_confirmation_sub_title">Vill du spara inst&auml;llningarna f&ouml;r din profil?</entry>
+    <entry key="profile_hint_phone_number">Mobilnummer</entry>
+    <!-- Profile details -->
+    <entry key="profile_change_setting_header">Mina uppgifter</entry>
+    <entry key="profile_setting_change_details">&Auml;ndra uppgifter</entry>
+    <entry key="profile_setting_change_picture">Byt profilbild</entry>
+    <entry key="profile_edit_image">&Auml;ndra</entry>
+    <entry key="profile_hint_name">Namn</entry>
+    <entry key="profile_settings_saved_title">Klart</entry>
+    <entry key="profile_settings_saved_sub_title">Dina inst&auml;llningar &auml;r nu sparade..</entry>
+    <entry key="profile_number_saved_sub_title">Dina inst&auml;llningar &auml;r nu sparade.</entry>
+    <entry key="profile_choose_images_from">V&auml;lj bild fr&aring;n:</entry>
+    <entry key="profile_error_message_oops_your_device_doesn_t_support_the_camera_action_">Din mobil verkar inte st&ouml;dja kamerafunktionalitet.</entry>
+    <!-- Settings -->
+    <entry key="settings_title_textview">Inst&auml;llningar</entry>
+    <entry key="settings_version_text">Telenor-app version  </entry>
+    <entry key="profile_notification_offers_near_you">Erbjudanden fr&aring;n Telenors butiker n&auml;ra dig</entry>
+    <entry key="profile_setting_authentication_title">Inloggning</entry>
+    <entry key="profile_setting_notification_title">Notifieringar</entry>
+    <!-- prepaid -->
+    <entry key="prepaid_button">Ladda kontantkort</entry>
+    <entry key="prepaid_detail_screen">Ladda ditt eller n&aring;gon annans kontantkort direkt i din mobil.</entry>
+    <entry key="prepaid_header_text_screen">Ladda kontantkort</entry>
+    <entry key="prepaid_header">Ladda kontantkort</entry>
+    <!-- Offers -->
+    <entry key="offer_nearest_store_title">N&auml;rmaste butik </entry>
+    <entry key="offer_general__km"> km</entry>
+    <entry key="offer_store_open_hours_weekdays">M&aring;ndag - Fredag</entry>
+    <entry key="offer_store_open_hours_weekend">L&ouml;rdag</entry>
+    <entry key="offer_store_open_hours_sunday">S&ouml;ndag</entry>
+    <entry key="offer_detail__btn__redeemed_by_retailers">Inl&ouml;ses av &aring;terf&ouml;rs&auml;ljare</entry>
+    <entry key="offer_detail__btn__use_coupon_now">Anv&auml;nd kupong nu</entry>
+    <entry key="offer_detail__lbl__cell_phone_hand_over_info">L&auml;mna &ouml;ver mobiltelefon till &aring;terf&ouml;rs&auml;ljare f&ouml;r att anv&auml;nda kupongen. Kupongen g&auml;ller f&ouml;r:</entry>
+    <entry key="offer_store_open">&Ouml;ppet</entry>
+    <entry key="offer_store_closed">St&auml;ngt</entry>
+    <entry key="offers_image_link">http://www.telenor.se/published_images/appkampanj.jpg</entry>
+    <!-- Loaders -->
+    <entry key="loader_update_progressbar_text">Uppdaterar...</entry>
+    <entry key="loader_saving_progressbar_text">Sparar &auml;ndring</entry>
+    <entry key="loader_loading_progressbar_text">Laddar...</entry>
+    <entry key="loader_loading_progressbar_sub_text"></entry>
+    <entry key="loader_inline_progressbar_text">H&auml;mtar info</entry>
+    <entry key="loader_inline_progressbar_sub_text">V&auml;nligen v&auml;nta...</entry>
+    <!-- Emma Faq -->
+    <entry key="emma_start_conversation_text">! Fr&aring;ga mig om ditt abonnemang. V&auml;lj n&aring;gon av kategorierna nedanf&ouml;r eller anv&auml;nd s&ouml;kf&auml;ltet. Jag g&ouml;r mitt b&auml;sta f&ouml;r att svara p&aring; alla dina fr&aring;gor.</entry>
+    <entry key="emma_faq_suggestion">V&auml;lj n&aring;gon av fr&aring;gorna nedan s&aring; hoppas jag att jag kan hj&auml;lpa till</entry>
+    <entry key="emma_category_title">Kategorier</entry>
+    <entry key="emma_hai_text">Hej</entry>
+    <entry key="emma_hint_search_text">S&ouml;k...</entry>
+    <entry key="emma_search_query_text">S&ouml;kresultat f&ouml;r: </entry>
+    <entry key="emma_user_choose_category">Jag vill g&auml;rna veta lite mer om </entry>
+    <entry key="emma_answer_loader_text">...</entry>
+    <entry key="emma_search_no_result">Inga resultat</entry>
+    <!-- Emma error messages -->
+    <entry key="error__dialog__header">Ojd&aring;, n&aring;got gick fel!</entry>
+    <entry key="error__network__lbl">Just nu kan jag inte hj&auml;lpa dig. F&ouml;rs&ouml;k igen senare.</entry>
+    <entry key="error_dialog__lbl__title">Ojd&aring;, n&aring;got gick fel!</entry>
+    <entry key="the_username_should_not_be_empty_">Gl&ouml;m inte att fylla i ditt anv&auml;ndarnamn.</entry>
+    <entry key="please_enter_password">Fyll i ditt l&ouml;senord.</entry>
+    <entry key="please_enter_user_name">Fyll i ditt anv&auml;ndarnamn.</entry>
+    <!-- EMMA Survey messages -->
+    <entry key="emma_survey_feedback_hint_text">L&auml;gg till kommentarer...</entry>
+    <entry key="emma_survey_send_feedback_button">Skicka feedback</entry>
+    <entry key="emma_survey_question_1_text">Hej [firstName]! Kunde du slutf&ouml;ra ditt &auml;rende f&ouml;rra g&aring;ngen du anv&auml;nde appen?</entry>
+    <entry key="emma_survey_rating_not_at_all">Inte alls</entry>
+    <entry key="emma_survey_rating_very_satisfied">Mycket n&ouml;jd</entry>
+    <entry key="emma_survey_question_2_text">Tack! Hur n&ouml;jd &auml;r du med servicen i appen?</entry>
+    <entry key="emma_survey_question_3_text">Ok, kommer du ih&auml;g varf&ouml;r du inte kunde slutf&ouml;ra ditt &auml;rende?</entry>
+    <entry key="emma_survey_pick_options_1">Jag hittade inte det jag s&ouml;kte</entry>
+    <entry key="emma_survey_pick_options_2">Informationen var otydlig/felaktig</entry>
+    <entry key="emma_survey_pick_options_3">F&ouml;r kr&aring;ngligt att utf&ouml;ra &auml;rendet</entry>
+    <entry key="emma_survey_pick_options_4">Annan anledning</entry>
+    <entry key="emma_survey_select_answer_text">Svara med hj&auml;lp av knapparna:</entry>
+    <entry key="emma_survey_thanks_text">Stort tack f&ouml;r din hj&auml;lp! Din &aring;sikt &auml;r v&auml;ldigt viktig f&ouml;r oss och vi lovar att jobba f&ouml;r att f&ouml;rb&auml;ttra din upplevelse h&auml;r i appen.</entry>
+    <!-- Error messages -->
+    <entry key="1">Just nu g&aring;r det inte att logga in i appen. V&auml;nlig f&ouml;rs&ouml;k senare eller surfa in som vanligt p&aring; minasidor.telenor.se</entry>
+    <entry key="2">Authenticering kr&auml;vs f&ouml;r att komma &aring;t denna resurs.</entry>
+    <entry key="3">Du har skrivit fel l&ouml;senord. F&ouml;rs&ouml;k igen!</entry>
+    <entry key="4">F&ouml;r m&aring;nga felaktiga f&ouml;rs&ouml;k, ditt konto &auml;r l&aring;st. </entry>
+    <entry key="6">Du &auml;r inte registrerad p&aring; Mina sidor men du kan enkelt skapa ett konto h&auml;r i appen!</entry>
+    <entry key="7">L&ouml;senord till Mina sidor saknas.</entry>
+    <entry key="8">Du har inte tillg&aring;ng till denna sida.</entry>
+    <entry key="9">Du har inte den tj&auml;nsten som kr&auml;vs f&ouml;r resursen.</entry>
+    <entry key="20">Denna version av resursen &auml;r ej till&aring;ten.</entry>
+    <entry key="21">Denna version &auml;r inte supportad l&auml;ngre.</entry>
+    <entry key="30">Tillf&auml;lligt fel, v&auml;nligen f&ouml;rs&ouml;k igen senare.</entry>
+    <entry key="31">Det gick inte att skicka sms, v&auml;nligen f&ouml;rs&ouml;k senare.</entry>
+    <entry key="32">Vi utf&ouml;r just nu systemunderh&aring;ll, v&auml;nligen &aring;terkom senare.</entry>
+    <entry key="33">Information saknas.</entry>
+    <entry key="34">Just nu &auml;r det inte till&aring;tet att anropa den h&auml;r resursen, var god &aring;terkom senare.</entry>
+    <entry key="40">http header x-version saknas.</entry>
+    <entry key="41">Http header x-password saknas. </entry>
+    <entry key="42">http header x-smspincode saknas.</entry>
+    <entry key="43">Telefonnumret saknas.</entry>
+    <entry key="44">E-postadressen saknas.</entry>
+    <entry key="45">Obligatoriskt f&auml;lt &auml;r ej ifyllt.</entry>
+    <entry key="100">Anv&auml;ndarnamnet &auml;r ej giltligt.</entry>
+    <entry key="101">Anv&auml;ndarnamnet &auml;r ej unikt.</entry>
+    <entry key="102">E-postadressen &auml;r ej giltig.</entry>
+    <entry key="103">E-postadressen &auml;r ej unik.</entry>
+    <entry key="104">L&ouml;senordet &auml;r ej giltigt.</entry>
+    <entry key="105">Telefonnumret &auml;r ej giltigt.</entry>
+    <entry key="106">Det telefonnummer du angett &auml;r inte ett Telenornummer.</entry>
+    <entry key="108">Det telefonnummer du angett &auml;r redan kopplat till Mina sidor-kontot.</entry>
+    <entry key="110">Fel eng&aring;ngsl&ouml;senord, f&ouml;rs&ouml;k igen.</entry>
+    <entry key="111">Eng&aring;ngsl&ouml;senord saknas.</entry>
+    <entry key="112">Eng&aring;ngsl&ouml;senordets giltighetstid har g&aring;tt ut.</entry>
+    <entry key="113">Du har gjort max antal f&ouml;rs&ouml;k, beg&auml;r ett nytt eng&aring;ngsl&ouml;senord.</entry>
+    <entry key="114">Du &auml;r inte registrerad.</entry>
+    <entry key="117">F&ouml;r m&aring;nga tr&auml;ffar p&aring; anv&auml;ndare, v&auml;nligen ange anv&auml;ndarnamn eller e-postadress. </entry>
+    <entry key="118">Telefonnummer f&ouml;r att skicka eng&aring;ngsl&ouml;senord saknas f&ouml;r denna anv&auml;ndare. </entry>
+    <entry key="119">Tillf&auml;lligt fel, v&auml;nligen f&ouml;rs&ouml;k igen senare.</entry>
+    <entry key="120">Det har inte skapats n&aring;gra fakturor p&aring; abonnemanget &auml;nnu.</entry>
+    <entry key="121">Fakturan kunde inte hittas</entry>
+    <entry key="122">Telefonnumret f&aring;r inte ha tj&auml;nsten p&aring; Mina sidor.</entry>
+    <entry key="123">Det finns ingen tj&auml;nst med det angivna namnet.</entry>
+    <entry key="124">Svarstiden &auml;r inte korrekt angiven.</entry>
+    <entry key="125">Startdatumet &auml;r inte korrekt angivet</entry>
+    <entry key="126">Slutdatumet &auml;r inte korrekt angivet.</entry>
+    <entry key="127">Notifieringss&auml;ttet &auml;r inte korrekt angivet. Giltiga v&auml;rden &auml;r SMS, MMS, CALL och INACTIVE.</entry>
+    <entry key="128">Kunde inte l&auml;gga p&aring; tj&auml;nsten MMS.</entry>
+    <entry key="129">Abonnemanget &auml;r inte aktivt. Kontakta Kundservice p&aring; 020-222 222.</entry>
+    <entry key="130">Kombinationen av  inst&auml;llningar &auml;r inte giltig.</entry>
+    <entry key="131">Tj&auml;nsten finns redan p&aring; ditt abonnemang.</entry>
+    <entry key="132">Tj&auml;nsten finns inte p&aring; ditt abonnemang.</entry>
+    <entry key="133">Ogiltligt v&auml;rde f&ouml;r saldo notifiering. M&aring;ste vara j&auml;mnt delbart med 5000, minst 5000 och max 90000.</entry>
+    <entry key="134">H&auml;nvisningss&auml;ttet &auml;r inte korrekt angivet. Giltiga v&auml;rden &auml;r EUROVOICE, MSISDN och INACTIVE.</entry>
+    <entry key="135">Erbjudandet m&aring;ste accepteras genom telefonsamtal.</entry>
+    <entry key="136">Tj&auml;nsten g&aring;r inte att avbest&auml;lla.</entry>
+    <entry key="137">Tj&auml;nsten g&aring;r inte att best&auml;lla.</entry>
+    <entry key="138">Det gick inte att ta bort tj&auml;nsten. V&auml;nligen f&ouml;rs&ouml;k senare.</entry>
+    <entry key="139">Devicetoken &auml;r inte giltigt. En 64 tecken l&aring;ng hexadecimal str&auml;ng &auml;r f&ouml;rv&auml;ntad.</entry>
+    <entry key="140">Tj&auml;nsten &auml;r inte editerbar.</entry>
+    <entry key="141">Det finns ingen tj&auml;nsteniv&aring; med det angivna namnet.</entry>
+    <entry key="142">Det gick inte att spara inst&auml;llningarna. Testa att inaktivera vidarekoppling/Medflyttning.</entry>
+    <entry key="143">Det finns inga bundles p&aring; det h&auml;r abonnemanget.</entry>
+    <entry key="144">Hej! Ditt abonnemang kan f&ouml;r tillf&auml;llet inte visas h&auml;r i Telenor-appen. Tills vidare ber vi dig logga in p&aring; Mina sidor via v&aring;r hemsida, www.telenor.se/minasidor, f&ouml;r att hantera dina &auml;renden. Vi kommer att kontakta dig via sms s&aring; fort appen har st&ouml;d f&ouml;r ditt abonnemang. Tack f&ouml;r ditt t&aring;lamod! Mvh Telenor.</entry>
+    <entry key="145">Fail to get quota information on userlevel</entry>
+    <entry key="146">Fail to get quota information on grouplevel</entry>
+    <entry key="147">Fail, subscriber not in PCRF</entry>
+    <entry key="148">Fail because only one group is supported.</entry>
+    <entry key="149">Fail to get quota information on userlevel, could not parse daeformat from getQuotaResetTimestamp.</entry>
+    <entry key="150">Only owner/Superuser/Member can view this inforamtion</entry>
+    <entry key="151">Owner / Superuser can view this information</entry>
+    <entry key="152">Ditt abonnemang &auml;r sp&auml;rrat. Logga in p&aring; Mina sidor via din webbl&auml;sare och ange din sp&auml;rrkod f&ouml;r att &ouml;ppna det igen.</entry>
+    <entry key="153">Ditt abonnemang &auml;r sp&auml;rrat.</entry>
+    <entry key="154">Du har redan reserverat ett sim-kort.</entry>
+    <entry key="155">Niv&aring; f&ouml;r samtalsp&auml;rr m&aring;ste vara 15000, 2000, 25000, &#8230;..45000, 50000, 60000, 70000, &#8230;.., 240000, 300000, &#8230;.., 950000, 1000000</entry>
+    <entry key="160">Andra &auml;ndringar p&aring; ditt abonnemang &auml;r inte genomf&ouml;rda &auml;n. V&auml;nta en stund och f&ouml;rs&ouml;k igen.</entry>
+    <entry key="200">Parameter finns inte i systemet.</entry>
+    <entry key="300">Inga fler &auml;ndringar till&aring;tna p&aring; denna familj denna m&aring;nad.</entry>
+    <entry key="301">Maximalt antal medlemmar finns redan i familjen.</entry>
+    <entry key="302">Medlemmen &auml;r redan med i maximalt antal familjer.</entry>
+    <entry key="303">Medlemmen finns redan med i familjen.</entry>
+    <entry key="304">Medlemmen finns inte med i familjen.</entry>
+    <entry key="305">Det &auml;r inte till&aring;tet att ta bort medlemmen.</entry>
+    <entry key="306">Det gick inte n&aring; telefonen. Telefonen kan vara avst&auml;ngd eller befinner sig utanf&ouml;r t&auml;ckning.</entry>
+    <entry key="401">Detta &auml;r ett f&ouml;retagsabonnemang.</entry>
+    <entry key="402">HTTP header X-deviceID saknas.</entry>
+    <entry key="403">Du har inte tillg&aring;ng till denna sida.</entry>
+    <entry key="404">Ditt l&ouml;senord till Termsys har g&aring;tt ut.</entry>
+    <entry key="501">Din s&ouml;kning genererade inga tr&auml;ffar.</entry>
+    <entry key="502">Tidszonen finns inte i Informera.</entry>
+    <entry key="503">Ditt f&ouml;retag till&aring;ter inte anv&auml;ndning av den h&auml;r appen.</entry>
+    <entry key="504">Det gick inte att &auml;ndra vidarekopplingsinst&auml;llningar f&ouml;r fastn&auml;tsnumret.</entry>
+    <entry key="505">Det gick inte att &auml;ndra vidarekopplingsinst&auml;llningar f&ouml;r mobilnumret.</entry>
+    <entry key="506">Det gick inte att skapa h&auml;nvisning.</entry>
+    <entry key="507">Det gick inte att &auml;ndra ut&ouml;kad nummervisning </entry>
+    <entry key="508">Det gick inte att spara alla inst&auml;llningar.</entry>
+    <entry key="600">Ogitligt alias</entry>
+    <entry key="forceUpgrade_title">Vi har gjort f&ouml;rb&auml;ttringar!</entry>
+    <entry key="forceUpgrade_description">F&ouml;r att kunna anv&auml;nda appen beh&ouml;ver du d&auml;rf&ouml;r uppdatera till den senaste versionen.</entry>
+    <entry key="forceUpgrade_button_text">Uppdatera</entry>
+    <!-- ======================= Iphone using keys ======================= -->
+    <entry key="alert__bubble__confirm_call_forward__body">Vill du medflytta dina samtal till r&ouml;stbrevl&aring;dan?</entry>
+    <entry key="alert__bubble__info_invalid_msisdn__body">Ange ett fullst&auml;ndigt telefonnummer.</entry>
+    <entry key="alert__confirm_seconds__body">sekunder &auml;r den svarstid du vill ha, st&auml;mmer det?</entry>
+    <entry key="alert__service_order_success__body">Vi har tagit emot din best&auml;llning av </entry>
+    <entry key="alert__service_order_success__title">Best&auml;llningen genomf&ouml;rd!</entry>
+    <entry key="alert__subscription_barred__body">Ditt abonnemang &auml;r sp&auml;rrat. Logga in p&aring; Mina sidor via din webbl&auml;sare och ange din sp&auml;rrkod f&ouml;r att &ouml;ppna det igen.</entry>
+    <entry key="network__error__msg">Du har ingen internetuppkoppling, kontrollera dina inst&auml;llningar.</entry>
+    <entry key="network__error__title">Tillf&auml;lligt fel</entry>
+    <entry key="call_fowarding_title">Medflytta samtal</entry>
+    <entry key="simcard_fee">250</entry>
+    <entry key="wrong_user_title">Ojd&aring;, n&aring;got gick fel!</entry>
+    <entry key="wrong_user_desc">Du &auml;r inte registrerad p&aring; Mina sidor men du kan enkelt skapa ett konto h&auml;r i appen!</entry>
+    <entry key="new_app_desc">Inom kort kommer den h&auml;r appen inte l&auml;ngre ha st&ouml;d f&ouml;r privatabonnemang.</entry>
+    <entry key="new_app_title">Privatkund? Byt till appen Mitt Telenor.</entry>
+    <entry key="new_app_ok_button">Google Play</entry>
+    <entry key="new_app_ok_button_os">App Store</entry>
+</resources>
