@@ -561,8 +561,9 @@
     <entry key="new_app_title">Beta test our new app My Telenor!</entry>
     <entry key="new_app_ok_button">Google Play</entry>
     <entry key="new_app_ok_button_os">App Store</entry>
-    <!-- ======================= CID ======================= -->
     
+    <!-- ======================= CID ======================= -->
     <entry key="cid_welcome_title">!Safer Login</entry>
     <entry key="cid_welcome_description">!We have a new login to our apps and services from May 15, meaning that you as a user only need one single password to our services. You will then need to verify your account and connect to your subscriptions. Just follow the instructions. Do you already use My Contacts, Capture or Lookout? Log in to the same account.</entry>
+
 </resources>
