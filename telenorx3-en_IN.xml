@@ -572,13 +572,13 @@
     <entry key="cid_welcome_description">We have a new login to our apps and services from May 15, meaning that you as a user only need one single password to our services. You will then need to verify your account and connect to your subscriptions. Just follow the instructions. Do you already use My Contacts, Capture or Lookout? Log in to the same account.</entry>
     
     <entry key="cid_verify_number_navtitle">Verify mobile number</entry>
-    <entry key="cid_verify_number_big_title">type mobile number</entry>
+    <entry key="cid_verify_number_big_title">Type mobile number</entry>
     <entry key="cid_verify_number_input_number_placeholder">Mobile number</entry>    
     <entry key="cid_verify_number_notice">Then we send a sms &#13; a verification code, so you'll soon get access to &#13; feature in the app.</entry>
     <entry key="cid_verify_number_send_code">Send code</entry>   
     
     <entry key="cid_verify_code_navtitle">Verifiera Kod</entry>
-    <entry key="cid_verify_code_bigtitle">Verify\nCode</entry>
+    <entry key="cid_verify_code_bigtitle">Verify&#13Code</entry>
     <entry key="cid_verify_code_input_notice">We have sent a text with a code to {number}. Enter the code here. It is valid for two minutes.</entry>
     <entry key="cid_verify_code_input_notice_sent">Enter the verification code you received via SMS to number {number}. The code is valid for two minutes.</entry>    
     <entry key="cid_verify_code_input_notice_footer">Did not you get your code? Wait a few seconds &#13; so you can order a new one soon.</entry>    
