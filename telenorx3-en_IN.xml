@@ -590,7 +590,8 @@
     <entry key="cid_birthdate_notice">Soon done! Before we lock your mobile number, we need to know your age. &#13;&#13; We ask because your age affects the content and how we contact you in the future.</entry>    
     <entry key="cid_birthdate_input_date_placeholder">date of birth</entry>            
     <entry key="cid_birthdate_notice_footer">We do not ask for your full social security number.</entry>    
-    
+    <entry key="cid_birthdate_send_date">Finish</entry>        
+
     <entry key="cid_success_notice">Now it's finished!&#13;You can now use our app</entry>    
     <entry key="cid_success_done">DONE</entry>    
     
