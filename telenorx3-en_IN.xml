@@ -603,5 +603,7 @@
     <entry key="cid_autoclaim_or">or</entry>        
     <entry key="cid_autoclaim_notice_footer">To use the app, you will need a Telenor Company subscription and the Telenor One service. Here you can become a customer if you are not already.</entry>        
     <entry key="cid_autoclaim_notice_footer_marked">Here you can become a customer</entry>  
+
+    <entry key="cid_claim_more">Add new number</entry>  
     
 </resources>
