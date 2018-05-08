@@ -617,7 +617,7 @@ Vill du se en instruktionsfilm om Volymkontroll?</entry>
     <entry key="cid_birthdate_input_date_placeholder">födelsedatum</entry>            
     <entry key="cid_birthdate_notice_footer">Vi frågar inte efter ditt fullständiga personnummer.</entry>    
     
-    <entry key="cid_success_notice">Nu är det klart!\nDu kan nu anväda vår app</entry>    
+    <entry key="cid_success_notice">Nu är det klart!&#13;Du kan nu anväda vår app</entry>    
     <entry key="cid_success_done">STÄNG</entry>    
     
     <entry key="cid_autoclaim_navtitle">Telenor</entry>    
