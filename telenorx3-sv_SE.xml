@@ -601,7 +601,7 @@ Vill du se en instruktionsfilm om Volymkontroll?</entry>
     <entry key="cid_verify_number_navtitle">Verifiera mobilnummer</entry>
     <entry key="cid_verify_number_big_title">Skriv in&#13;mobilnummer</entry>
     <entry key="cid_verify_number_input_number_placeholder">Mobilnummer</entry>    
-    <entry key="cid_verify_number_notice">Sedan skickar vi ett sms en&#13;verifieringskod, sä fär du snart tillgäng till&#13;funktionera i appen.</entry>
+    <entry key="cid_verify_number_notice">Sedan skickar vi ett sms en verifieringskod, sä fär du snart tillgäng till funktionera i appen.</entry>
     <entry key="cid_verify_number_send_code">Skicka kod</entry>   
     
     <entry key="cid_verify_code_navtitle">Verifiera Kod</entry>
