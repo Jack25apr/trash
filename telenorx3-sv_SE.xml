@@ -589,7 +589,39 @@ Vill du se en instruktionsfilm om Volymkontroll?</entry>
     <entry key="new_app_ok_button">Google Play</entry>
     <entry key="new_app_ok_button_os">App Store</entry>
     
-<!-- ======================= CID ======================= -->    
-    <entry key="cid_welcome_title">T_Säkrare inloggning</entry>
-    <entry key="cid_welcome_description">T_Vi har ett nytt inlogg till våra appar och tjänster från 15 maj och innebär att du som användare endast behöver ett lösenord.Du behöva sedan verifiera ditt konto och koppla till dina abonnemang. Följ bara instruktionerna som följer. Använder du redan My Contacts, Capture eller Lookout? Logga in med samma uppgifter.</entry>
+<!-- ======================= CID ======================= -->
+    <entry key="cid_welcome_title">Safer Login</entry>
+    <entry key="cid_welcome_description">We have a new login to our apps and services from May 15, meaning that you as a user only need one single password to our services. You will then need to verify your account and connect to your subscriptions. Just follow the instructions. Do you already use My Contacts, Capture or Lookout? Log in to the same account.</entry>
+    
+    <entry key="cid_verify_number_navtitle">Verifiera mobilnummer</entry>
+    <entry key="cid_verify_number_big_title">Skriv in\nmobilnummer</entry>
+    <entry key="cid_verify_number_input_number_placeholder">Mobilnummer</entry>    
+    <entry key="cid_verify_number_notice">Sedan skickar vi ett sms en\nverifieringskod, sä fär du snart tillgäng till\nfunktionera i appen.</entry>
+    <entry key="cid_verify_number_send_code">Skicka kod</entry>   
+    
+    <entry key="cid_verify_code_navtitle">Verifiera Kod</entry>
+    <entry key="cid_verify_code_bigtitle">Verifiera \nmobilnummer</entry>
+    <entry key="cid_verify_code_input_notice">Vi har skickat ett sms med en kod till {number}. Skriv in koden här. Den är giltig i två minuter.</entry>
+    <entry key="cid_verify_code_input_notice_footer">Har du inte fätt din kod? Vänta nägra sekunder \nsä kan du snart beställa en ny.</entry>    
+    <entry key="cid_verify_code_send_code_again">Skicka ny kod</entry>
+    <entry key="cid_verify_code_send_code">Veifiera</entry>       
+
+    <entry key="cid_birthdate_navtitle">Ett sista steg</entry>    
+    <entry key="cid_birthdate_bigtitle">Din ålder</entry>    
+    <entry key="cid_birthdate_notice">Snart klar! Innan vi lågger till ditt mobilnummer behöver vi veta din ålder.\n\nVi frågar eftersom din ålder påverkar innehållet och hur vi kontaktar dig i framtiden.</entry>    
+    <entry key="cid_birthdate_input_date_placeholder">födelsedatum</entry>            
+    <entry key="cid_birthdate_notice_footer">Vi frågar inte efter ditt fullständiga personnummer.</entry>    
+    
+    <entry key="cid_success_notice">Nu är det klart!\nDu kan nu anväda vår app</entry>    
+    <entry key="cid_success_done">STÄNG</entry>    
+    
+    <entry key="cid_autoclaim_navtitle">Telenor</entry>    
+    <entry key="cid_autoclaim_bigtitle">Välkommen</entry>       
+    <entry key="cid_autoclaim_notice">Kul att du har hittat hit!\nInnan du börjar använda appen behöver vi veta om mobilnumret nedan är det nummer du vill använda?</entry>        
+    <entry key="cid_autoclaim_next">Ja, mobilnumret stämmer</entry>    
+    <entry key="cid_autoclaim_cancel">Nej, jag vill byta nummer</entry>        
+    <entry key="cid_autoclaim_or">eller</entry>        
+    <entry key="cid_autoclaim_notice_footer">For att kunna använda appen behöver du ett Telenor Företagsabonnemang samt tjänsten Telenor One. Här kan du bli kund om du redan inte är det.</entry>        
+    <entry key="cid_autoclaim_notice_footer_marked">Här kan du bli kund</entry> 
+    
 </resources>
