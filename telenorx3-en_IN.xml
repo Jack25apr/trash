@@ -581,7 +581,7 @@
     <entry key="cid_verify_code_bigtitle">Verify&#13Code</entry>
     <entry key="cid_verify_code_input_notice">We have sent a text with a code to {number}. Enter the code here. It is valid for two minutes.</entry>
     <entry key="cid_verify_code_input_notice_sent">Enter the verification code you received via SMS to number {number}. The code is valid for two minutes.</entry>    
-    <entry key="cid_verify_code_input_notice_footer">Did not you get your code? Wait a few seconds &#13; so you can order a new one soon.</entry>    
+    <entry key="cid_verify_code_input_notice_footer">Did not you get your code? Wait a few seconds so you can order a new one soon.</entry>    
     <entry key="cid_verify_code_send_code_again">Send new code</entry>
     <entry key="cid_verify_code_send_code">Veirify</entry>       
 
