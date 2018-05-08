@@ -574,7 +574,7 @@
     <entry key="cid_verify_number_navtitle">Verify mobile number</entry>
     <entry key="cid_verify_number_big_title">type mobile number</entry>
     <entry key="cid_verify_number_input_number_placeholder">Mobile number</entry>    
-    <entry key="cid_verify_number_notice">Then we send a sms &#13; a verification code, so you'll soon get access to&#13;feature in the app.</entry>
+    <entry key="cid_verify_number_notice">Then we send a sms &#13; a verification code, so you'll soon get access to &#13; feature in the app.</entry>
     <entry key="cid_verify_number_send_code">Send code</entry>   
     
     <entry key="cid_verify_code_navtitle">Verifiera Kod</entry>
