@@ -631,4 +631,5 @@ Vill du se en instruktionsfilm om Volymkontroll?</entry>
     <entry key="cid_autoclaim_notice_footer">For att kunna använda appen behöver du ett Telenor Företagsabonnemang samt tjänsten Telenor One. Här kan du bli kund om du redan inte är det.</entry>        
     <entry key="cid_autoclaim_notice_footer_marked">Här kan du bli kund</entry> 
     
+    <entry key="cid_claim_more">Lägg till nytt nummer</entry>  
 </resources>
