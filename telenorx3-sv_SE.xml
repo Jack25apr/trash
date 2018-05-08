@@ -595,8 +595,8 @@ Vill du se en instruktionsfilm om Volymkontroll?</entry>
     <entry key="consumer_upgrade_description">Byt till appen Mitt telenor</entry>
     <entry key="consumer_upgrade_button_title">AppStore</entry>
     
-    <entry key="cid_welcome_title">!Säkrare inloggning</entry>
-    <entry key="cid_welcome_description">!Vi har ett nytt inlogg till våra appar och tjänster från 15 maj och innebär att du som användare endast behöver ett lösenord.Du behöva sedan verifiera ditt konto och koppla till dina abonnemang. Följ bara instruktionerna som följer. Använder du redan My Contacts, Capture eller Lookout? Logga in med samma uppgifter.</entry>
+    <entry key="cid_welcome_title">Säkrare inloggning</entry>
+    <entry key="cid_welcome_description">Vi har ett nytt inlogg till våra appar och tjänster från 15 maj och innebär att du som användare endast behöver ett lösenord.Du behöva sedan verifiera ditt konto och koppla till dina abonnemang. Följ bara instruktionerna som följer. Använder du redan My Contacts, Capture eller Lookout? Logga in med samma uppgifter.</entry>
     
     <entry key="cid_verify_number_navtitle">Verifiera mobilnummer</entry>
     <entry key="cid_verify_number_big_title">Skriv in&#13;mobilnummer</entry>
