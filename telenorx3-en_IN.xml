@@ -574,28 +574,28 @@
     <entry key="cid_verify_number_navtitle">Verify mobile number</entry>
     <entry key="cid_verify_number_big_title">type mobile number</entry>
     <entry key="cid_verify_number_input_number_placeholder">Mobile number</entry>    
-    <entry key="cid_verify_number_notice">Then we send a sms &#xD;  &#13; a verification code, so you'll soon get access to\nfeature in the app.</entry>
+    <entry key="cid_verify_number_notice">Then we send a sms &#13; a verification code, so you'll soon get access to&#13;feature in the app.</entry>
     <entry key="cid_verify_number_send_code">Send code</entry>   
     
     <entry key="cid_verify_code_navtitle">Verifiera Kod</entry>
     <entry key="cid_verify_code_bigtitle">Verify\nCode</entry>
     <entry key="cid_verify_code_input_notice">We have sent a text with a code to {number}. Enter the code here. It is valid for two minutes.</entry>
-    <entry key="cid_verify_code_input_notice_footer">Did not you get your code? Wait a few seconds \n so you can order a new one soon.</entry>    
+    <entry key="cid_verify_code_input_notice_footer">Did not you get your code? Wait a few seconds &#13; so you can order a new one soon.</entry>    
     <entry key="cid_verify_code_send_code_again">Send new code</entry>
     <entry key="cid_verify_code_send_code">Veirify</entry>       
 
     <entry key="cid_birthdate_navtitle">One last ste</entry>    
     <entry key="cid_birthdate_bigtitle">Your age</entry>    
-    <entry key="cid_birthdate_notice">Soon done! Before we lock your mobile number, we need to know your age. \n\n We ask because your age affects the content and how we contact you in the future.</entry>    
+    <entry key="cid_birthdate_notice">Soon done! Before we lock your mobile number, we need to know your age. &#13;&#13; We ask because your age affects the content and how we contact you in the future.</entry>    
     <entry key="cid_birthdate_input_date_placeholder">date of birth</entry>            
     <entry key="cid_birthdate_notice_footer">We do not ask for your full social security number.</entry>    
     
-    <entry key="cid_success_notice">Now it's finished!\nYou can now use our app</entry>    
+    <entry key="cid_success_notice">Now it's finished!&#13;You can now use our app</entry>    
     <entry key="cid_success_done">DONE</entry>    
     
     <entry key="cid_autoclaim_navtitle">Telenor</entry>    
     <entry key="cid_autoclaim_bigtitle">Welcome</entry>        
-    <entry key="cid_autoclaim_notice">Fun that you've found here!\nBefore you start using the app, do we need to know if the mobile number below is the number you want to use?</entry>        
+    <entry key="cid_autoclaim_notice">Fun that you've found here!&#13;Before you start using the app, do we need to know if the mobile number below is the number you want to use?</entry>        
     <entry key="cid_autoclaim_next">Yes, the mobile number is correct</entry>    
     <entry key="cid_autoclaim_cancel">No, I want to change number</entry>        
     <entry key="cid_autoclaim_or">or</entry>        
