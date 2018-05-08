@@ -607,6 +607,7 @@ Vill du se en instruktionsfilm om Volymkontroll?</entry>
     <entry key="cid_verify_code_navtitle">Verifiera Kod</entry>
     <entry key="cid_verify_code_bigtitle">Verifiera &#13;mobilnummer</entry>
     <entry key="cid_verify_code_input_notice">Vi har skickat ett sms med en kod till {number}. Skriv in koden här. Den är giltig i två minuter.</entry>
+    <entry key="cid_verify_code_input_notice_sent">Skriv in verifieringskoden du du fått via Sms till nummer {number}. Koden är giltig i två minuter.</entry>    
     <entry key="cid_verify_code_input_notice_footer">Har du inte fätt din kod? Vänta nägra sekunder &#13;sä kan du snart beställa en ny.</entry>    
     <entry key="cid_verify_code_send_code_again">Skicka ny kod</entry>
     <entry key="cid_verify_code_send_code">Veifiera</entry>       
